@@ -1,0 +1,125 @@
+ img{
+    max-width: 45%;
+    height: 45%;
+    border-radius: 12px 12px 12px 12px;
+    box-shadow: 8px 7px 6px rgba(0, 0, 0, 0.589);
+ }
+ .im2{
+     max-width: 45%;
+     height: 45%;
+ }
+ .im3{
+    max-width: 30%;
+    height: 30%;
+ }
+ .im4{
+    max-width: 35%;
+    height: 35%;
+ }
+ .im5{
+    max-width: 40%;
+    height: 40%;
+ }
+
+.biografia{
+    text-align: justify;
+    margin: 30px;
+    padding: 30px;
+ }
+
+ h1{
+    text-align: center;
+    padding-top: 20px;
+ }
+ #frase{
+    text-align: center;
+ }
+ .fonte{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ .fonte2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+ }
+ .fonte3{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .im6{  
+   width: 7%;
+ }
+
+ .home {
+   margin-left: 20px ;
+ }
+
+ .title {
+   border-bottom: solid 2px purple;
+   width: 400px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+ }
+
+ .line {
+    display: flex;
+    justify-content: center;
+ }
+ .fontesub{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font: size 100px;;
+   color: rgb(175, 99, 233) !important;
+ }
+ .carousel-inner img{
+   margin: auto;
+   height: 27vw;
+ }
+ .imagem{
+   height: 100%;
+   background-size: cover;
+   background-repeat: repeat;
+   background-position: center;
+   background-image: url("./img/istockphoto-1095255250-170667a.jpg");
+ }
+
+.navbar-custom{
+   background-color: rgba(198, 198, 198, 0.517) !important;
+   color: black !important;
+}
+.af{
+   color: blue;
+}
+.fontefon{
+   text-align: justify;
+   margin: 5px;
+   padding-left: 10%;
+}
+.tablw{
+        margin-left: 10%;
+        padding-left: 10%;
+}
+.imt{
+   background-color: #fff;
+   color: purple;
+}
+.button{
+   background-color: rgb(189, 166, 133);
+   color: rgb(12, 11, 12);
+}
+.cards{
+   background-color: #b9a4b6;
+   color: black;
+}
+.fieldset {
+   border: 5px solid #999;
+
+   /* controla a distancia entre os elementos e a borda */
+
+
+   /* margem para alinhar o fieldset com o restante do grid */
+   margin-right: 100%;
+   margin-left: -5%;
+   align-items: center;
+ }
+.field{
+   margin-right: 50px;
+   padding-right: 50px;
+}
